@@ -9,7 +9,7 @@ Hello! I'm Imtiaz. I'm passionate about code and love to network with fellow cod
 
 Here's a summary of what I can offer professionally:
 
-- Around 5 years of experience in building performant front-end applications
+- Around 6 years of experience in building performant front-end applications
 - Experienced in the design and implementation of fast, efficient and maintainable single page web applications in React
 - Experienced in the deployment and maintenance of software systems in a plethora of environments using various degrees of tooling
 - Sound understanding and experience in modern software development process-- hands on experience in implementing Scrum/Agile at work
