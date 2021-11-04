@@ -5,6 +5,6 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/imtiaz101325/)
 ![](https://komarev.com/ghpvc/?username=imtiaz101325&color=red)
 
-Hello! I'm Imtiaz. I'm passionate about code and love to network with fellow coders. I am looking to transition into a data professional.
+Hello! I'm Imtiaz. I'm passionate about code and love to network with fellow coders.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imtiaz101325&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
