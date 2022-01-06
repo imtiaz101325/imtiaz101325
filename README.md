@@ -5,6 +5,12 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/imtiaz101325/)
 ![](https://komarev.com/ghpvc/?username=imtiaz101325&color=red)
 
-Hello! I'm Imtiaz. I'm passionate about code and love to network with fellow coders.
+# TLDR
+6+ years building SPA with React. 1+ year in OTT. Data and Analytics enthusiast.
+
+# Short Bio
+I am a Front-end developer working professionally for around 6 years. I started my career at a time when React was getting popular. Having taught myself enough JavaScript, I found many opportunities to work on single page web applications. I continued specializing in single page web application development in React while exploring various industries. Currently I have developed a keen interest in the OTT space where I am learning a lot while having a lot of fun.
+
+Apart from that I have a passion for data and analytics. I know enough Python and R to be dangerous and spend some of my free time learning data analysis with various tools such as spreadsheets, SQL etc.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imtiaz101325&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
