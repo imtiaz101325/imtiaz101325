@@ -14,3 +14,5 @@ I am a Front-end developer working professionally for around 6 years. I started 
 Apart from that I have a passion for data and analytics. I know enough Python and R to be dangerous and spend some of my free time learning data analysis with various tools such as spreadsheets, SQL etc.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imtiaz101325&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![@imtiaz101325's Holopin board](https://holopin.io/api/user/board?user=imtiaz101325)](https://holopin.io/@imtiaz101325)
