@@ -7,12 +7,12 @@
 [![Contact me on Codementor](https://www.codementor.io/m-badges/imtiaz101325/contact-me.svg)](https://www.codementor.io/@imtiaz101325?refer=badge)
 
 # TLDR
-6+ years building SPA with React. 1+ year in OTT. Data and Analytics enthusiast.
+7+ years web applications. 6 years building SPA with React and 1+ year using Lightning.js. 1+ year in OTT and 1+ year in CTV. Data and Analytics enthusiast.
 
 # Short Bio
-I am a Front-end developer working professionally for around 6 years. I started my career at a time when React was getting popular. Having taught myself enough JavaScript, I found many opportunities to work on single page web applications. I continued specializing in single page web application development in React while exploring various industries. Currently I have developed a keen interest in the OTT space where I am learning a lot while having a lot of fun.
+I am a Front-end developer working professionally for around 7 years. I started my career at a time when React was getting popular. Having taught myself enough JavaScript, I found many opportunities to work on single page web applications. I continued specializing in single page web application development in React while exploring various industries. I and now in the OTT and CTV space where I am learning a lot while having a lot of fun.
 
-Apart from that I have a passion for data and analytics. I know enough Python and R to be dangerous and spend some of my free time learning data analysis with various tools such as spreadsheets, SQL etc.
+Apart from that I have a passion for data and analytics. I know enough Python and R to be dangerous and spend some of my free time learning data analysis with various tools.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imtiaz101325&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
