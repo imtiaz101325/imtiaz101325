@@ -10,7 +10,7 @@
 7+ years web applications. 6 years building SPA with React and 1+ year using Lightning.js. 1+ year in OTT and 1+ year in CTV. Data and Analytics enthusiast.
 
 # Short Bio
-I am a Front-end developer working professionally for around 7 years. I started my career at a time when React was getting popular. Having taught myself enough JavaScript, I found many opportunities to work on single page web applications. I continued specializing in single page web application development in React while exploring various industries. I and now in the OTT and CTV space where I am learning a lot while having a lot of fun.
+I am a Front-end developer working professionally for around 7 years. I started my career at a time when React was getting popular. Having taught myself enough JavaScript, I found many opportunities to work on single page web applications. I continued specializing in single page web application development in React while exploring various industries. I am now in the OTT and CTV space where I am learning a lot while having a lot of fun.
 
 Apart from that I have a passion for data and analytics. I know enough Python and R to be dangerous and spend some of my free time learning data analysis with various tools.
 
