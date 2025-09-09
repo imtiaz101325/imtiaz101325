@@ -8,16 +8,24 @@
 [![Contact me on Codementor](https://www.codementor.io/m-badges/imtiaz101325/contact-me.svg)](https://www.codementor.io/@imtiaz101325?refer=badge)
 
 # TLDR
-7+ years web applications. 6 years building SPA with React and 1+ year using Lightning.js. 1+ year in OTT and 1+ year in CTV. Data and Analytics enthusiast.
+10+ Years in tech | Transitioning to Application Security | Currently pursuing HTB CJCA
 
 # Short Bio
-Hi 👋🏾! I’m Imtiaz. You can also call me Sk.
+Hi 👋🏾! I’m Imtiaz. You can also call me Sk(/ɛs keɪ/).
 
-I am a Front-end developer working professionally for around 7 years. I started my career at a time when React was getting popular. Having taught myself enough JavaScript, I found many opportunities to work on single page web applications. I continued specializing in single page web application development in React while exploring various industries. I settled for the OTT and CTV space  for a while building streaming services for various platforms. Now I am interested in Cybersecurity and looking into working on Web Application Security.
+I care about building technology that is not only impactful, but also secure, ethical, and sustainable. I broke into tech a decade ago as a self-taught developer. Over the years, I have built significant technical depth and breadth in software engineering and web technologies. My passion for solving complex puzzles and creating lasting impact now drives me to transition into cybersecurity. My journey so far has given me:
+- Hands-on SDLC experience across startups and scale-ups in Europe, the US, and Bangladesh.
+- Deep technical skills in JavaScript, Python, and modern web technologies, with practical expertise in cloud and automation.
+- Proven ability to design, deploy, and optimize large-scale applications for web, OTT, and CTV platforms.
+- Strong foundation in product development, data analytics, and business-driven decision-making.
 
-Apart from that I have a passion for data and analytics. I know enough Python and R to be dangerous and spend some of my free time learning data analysis with various tools.
+I am deeply grateful to the tech community, and alongside my technical work, I:
+- Mentor engineers and newcomers, helping them navigate career transitions.
+- Contribute to tech communities through events, volunteering, and writing.
+- Advocate for physical and mental wellbeing as essential to long-term success.
+- Practice continuous learning with a growth mindset, embracing challenges as opportunities.
 
-I like to read Japanese Manga at my spare time.
+At this stage, my focus is on bridging my engineering depth with application security to help teams build products that are not only scalable and resilient, but truly trustworthy.
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=imtiaz101325&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
