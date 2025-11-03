@@ -8,7 +8,7 @@
 [![Contact me on Codementor](https://www.codementor.io/m-badges/imtiaz101325/contact-me.svg)](https://www.codementor.io/@imtiaz101325?refer=badge)
 
 # TLDR
-10+ Years in tech | Transitioning to Application Security | Currently pursuing HTB CJCA
+With 10+ years in Frontend Engineering, I help businesses bridge the gap between technology and creativity.
 
 # Short Bio
 Hi 👋🏾! I’m Imtiaz. You can also call me Sk(/ɛs keɪ/).
